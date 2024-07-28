@@ -1,6 +1,8 @@
 Wii U eShop backup (not done plz help)
 
-https:// geisha-wup.cdn.nintendo.net/geisha/#top
+<hr>
+
+https://geisha-wup.cdn.nintendo.net/geisha/#top
 
 
 (how to get it working: u need the cert "WIIU_WOOD_1_CERT" here is a link to it:
@@ -44,6 +46,8 @@ rankings: https://geisha-wup.cdn.nintendo.net/geisha/shelf02_01.html
 news: https://geisha-wup.cdn.nintendo.net/geisha/#news
 
 search url on the top search bar: https://geisha-wup.cdn.nintendo.net/geisha/index.html#shelf?searchType=both&freeword=SEARCHTEXT
+
+<hr>
 
 view on reddit for more info:
 https://www.reddit.com/r/wiiu/comments/1edtksf/wii_u_eshop_urls_i_found/
